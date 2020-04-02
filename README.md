@@ -7,11 +7,11 @@ I have used R programming language's 'rvest' package for web-scraping
 ## Prerequisite
 
 You will need to install and load the following packages.  
-install.packages('rvest')
-install.packages('tidyverse')
+install.packages('rvest')  
+install.packages('tidyverse')  
 
-library(tidyverse)
-library(rvest)
+library(tidyverse)  
+library(rvest)  
 
 ## Some Theory
 I have used the following functions in my code -
