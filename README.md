@@ -4,7 +4,7 @@ A simple implementation of web scraping in R.I have scraped the Billboard websit
 
 I have used R programming language's 'rvest' package for web-scraping
 
-##Prerequisite
+## Prerequisite
 
 You will need to install and load the following packages.  
 install.packages('rvest')
@@ -13,8 +13,9 @@ install.packages('tidyverse')
 library(tidyverse)
 library(rvest)
 
-##Some Theory
+## Some Theory
 I have used the following functions in my code -
 
-1.read_html() - Generation of a HTML document from the URL
+1.read_html() - Generation of a HTML document from the URL  
+
 2.html_nodes() -The fucntion helps you extract the data you want based on its CSS selector.
